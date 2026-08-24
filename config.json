@@ -2,6 +2,6 @@
   "config_version": 3,
   "api_url": "https://dtr.ideaserv.online",
   "minimum_app_version": "1.0.0",
-  "maintenance": false,
+  "maintenance": true,
   "message": ""
 }
