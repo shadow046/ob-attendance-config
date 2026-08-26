@@ -1,7 +1,7 @@
 {
-  "config_version": 6,
+  "config_version": 7,
   "api_url": "https://dtr.ideaserv.online",
   "minimum_app_version": "1.0.0",
-  "maintenance": true,
+  "maintenance": false,
   "message": ""
 }
